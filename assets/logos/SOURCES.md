@@ -13,5 +13,6 @@ Brand marks are stored locally so the portfolio works on GitHub Pages without ru
 - Trakya Müzik Festivali — event listing asset: https://cdn.eventpal.co/images/event/bubilet-d4f7701c7a1dcc51750b632a.webp
 - Bursa Büyükşehir Belediyesi — asset: https://images.seeklogo.com/logo-png/2/1/bursa-buyuksehir-belediyesi-logo-png_seeklogo-23776.png; verified against https://www.bursa.bel.tr/sayfa/logolar-106
 - CyBall — asset: https://cdn.coin68.com/uploads/2022/02/Cyball-Launch-2.jpg; verified against https://docs.cyball.com/
+- H-E-B — user-supplied transparent WebP asset; source URL pending.
 
 Raster source files that arrived with a flat background were converted to alpha PNGs without redrawing the marks.

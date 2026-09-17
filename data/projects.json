@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "notes": "Public titles, dates, locations, clients and descriptions are intentionally pending.",
+  "projects": [
+    {"id":"project-001","status":"selected","order":2,"title":null,"description":null,"cover":"assets/works/large/project-001.webp","thumb":"assets/works/thumb/project-001.webp","sourceFiles":["works/project-001-cover.jpg"]},
+    {"id":"project-002","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-002.webp","thumb":"assets/works/thumb/project-002.webp","sourceFiles":["works/project-002-cover.jpg"]},
+    {"id":"project-003","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-003.webp","thumb":"assets/works/thumb/project-003.webp","sourceFiles":["works/project-003-cover.jpg","works/project-003-detail-01.jpg"]},
+    {"id":"project-004","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-004.webp","thumb":"assets/works/thumb/project-004.webp","sourceFiles":["works/project-004-cover.jpg"]},
+    {"id":"project-005","status":"selected","order":4,"title":null,"description":null,"cover":"assets/works/large/project-005.webp","thumb":"assets/works/thumb/project-005.webp","sourceFiles":["works/project-005-cover.jpg"]},
+    {"id":"project-006","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-006.webp","thumb":"assets/works/thumb/project-006.webp","sourceFiles":["works/project-006-cover.jpg"]},
+    {"id":"project-007","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-007.webp","thumb":"assets/works/thumb/project-007.webp","sourceFiles":["works/project-007-cover.jpg"]},
+    {"id":"project-008","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-008.webp","thumb":"assets/works/thumb/project-008.webp","sourceFiles":["works/project-008-cover.jpg"]},
+    {"id":"project-009","status":"selected","order":6,"title":null,"description":null,"cover":"assets/works/large/project-009.webp","thumb":"assets/works/thumb/project-009.webp","sourceFiles":["works/project-009-cover.jpg"]},
+    {"id":"project-010","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-010.webp","thumb":"assets/works/thumb/project-010.webp","sourceFiles":["works/project-010-cover.jpg"]},
+    {"id":"project-011","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-011.webp","thumb":"assets/works/thumb/project-011.webp","sourceFiles":["works/project-011-cover.jpg"]},
+    {"id":"project-012","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-012.webp","thumb":"assets/works/thumb/project-012.webp","sourceFiles":["works/project-012-cover.jpg"]},
+    {"id":"project-013","status":"selected","order":8,"title":null,"description":null,"cover":"assets/works/large/project-013.webp","thumb":"assets/works/thumb/project-013.webp","sourceFiles":["works/project-013-cover.jpg"]},
+    {"id":"project-014","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-014.webp","thumb":"assets/works/thumb/project-014.webp","sourceFiles":["works/project-014-cover.jpg","works/project-014-detail-01.jpg","works/project-014-detail-02.jpg","works/project-014-detail-03.jpg"]},
+    {"id":"project-015","status":"selected","order":1,"title":null,"description":null,"cover":"assets/works/large/project-015.webp","thumb":"assets/works/thumb/project-015.webp","sourceFiles":["works/project-015-cover.jpg"]},
+    {"id":"project-016","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-016.webp","thumb":"assets/works/thumb/project-016.webp","sourceFiles":["works/project-016-cover.jpg"]},
+    {"id":"project-017","status":"selected","order":3,"title":null,"description":null,"cover":"assets/works/large/project-017.webp","thumb":"assets/works/thumb/project-017.webp","sourceFiles":["works/project-017-cover.jpg"]},
+    {"id":"project-018","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-018.webp","thumb":"assets/works/thumb/project-018.webp","sourceFiles":["works/project-018-cover.jpg"]},
+    {"id":"project-019","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-019.webp","thumb":"assets/works/thumb/project-019.webp","sourceFiles":["works/project-019-cover.jpg"]},
+    {"id":"project-020","status":"selected","order":5,"title":null,"description":null,"cover":"assets/works/large/project-020.webp","thumb":"assets/works/thumb/project-020.webp","sourceFiles":["works/project-020-cover.jpg","works/project-020-detail-01.jpg"]},
+    {"id":"project-021","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-021.webp","thumb":"assets/works/thumb/project-021.webp","sourceFiles":["works/project-021-cover.jpg"]},
+    {"id":"project-022","status":"selected","order":7,"title":null,"description":null,"cover":"assets/works/large/project-022.webp","thumb":"assets/works/thumb/project-022.webp","sourceFiles":["works/project-022-cover.jpg"]},
+    {"id":"project-023","status":"archive","title":null,"description":null,"cover":"assets/works/large/project-023.webp","thumb":"assets/works/thumb/project-023.webp","sourceFiles":["works/project-023-cover.jpg"]}
+  ]
+}
